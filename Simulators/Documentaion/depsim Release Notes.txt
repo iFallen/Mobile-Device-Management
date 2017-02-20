@@ -1,0 +1,21 @@
+Summary:
+depsim provides server emulation of the APIs for the Device Enrollment Program documented in the Mobile Device Management Protocol Reference.
+
+Release Date:
+ - 6/14/2016
+
+System Requirements:
+ - 64 bit operating system
+ - 4 Gb free disk space
+
+Operating Systems:
+ - OS X 10.9 and later
+ - Ubuntu 14.04.1 and later
+
+Additions:
+ - Added support to print device profiles saved on the server
+ - Added support for X-Server-Protocol-Version 3 (urls, org_type and org_version)
+ - Added support for retry-after response key in headers returned by the server
+
+Fixes:
+ - Bug fixes

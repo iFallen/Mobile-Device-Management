@@ -1,0 +1,8 @@
+System Requirements:
+ - 64 bit operating system
+ - 4 Gb free disk space
+
+Operating System:
+ - OS X 10.9 and later
+ - Ubuntu 14.04.1 and later
+ - Windows 8 and later
